@@ -60,7 +60,7 @@ Upon execution, the system exports five professional visualization reports:
 
 ---
 
-## 👥 The Student's Team
+##  The Student's Team
 
 | Profile | Information |
 | :--- | :--- |
