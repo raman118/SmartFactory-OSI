@@ -64,9 +64,9 @@ Upon execution, the system exports five professional visualization reports:
 
 | Profile | Information |
 | :--- | :--- |
-| 🛡️ **Raman Chaudhary** | **Roll No:** 22124034 |
-| 🛠️ **Moksh Yadav** | **Roll No:** 22035042 |
-| 📡 **Pravat Kumar Sahoo** | **Roll No:** 22085078 |
+|  **Raman Chaudhary** | **Roll No:** 22124034 |
+|  **Moksh Yadav** | **Roll No:** 22035042 |
+|  **Pravat Kumar Sahoo** | **Roll No:** 22085078 |
 
 ---
 
